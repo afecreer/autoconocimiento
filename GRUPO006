@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+</style>
+</head>
+<body>
+
+<h1>PBI-006</h1>
+
+<h2>INTELIGENCIAS MÚLTIPLES</h2>
+
+<h3>RESPONDA LAS SIGUIENTES PREGUNTAS DE SELECCIÓN MULTIPLE.</h3>
+
+<p>Seleccione para cada uno Falso o verdadero de acuerdo a su personalidad</p>
+
+<p>1. Prefiero hacer un mapa que explicarle a alguien como tiene que llegar</p>
+
+<input type="radio" name="answer" value="true"> Verdadero<br>
+<input type="radio" name="answer" value="false"> Falso<br>
+
+<button onclick="location.href='previous.html'">Anterior</button>
+<button onclick="location.href='next.html'">Siguiente</button>
+
+</body>
+</html>
